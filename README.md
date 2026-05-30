@@ -31,7 +31,7 @@ A interação acontece diretamente pelo terminal, mantendo o contexto da convers
 ```bash
 projeto/
 │
-├── main.py
+├── app.py
 ├── .env
 ├── requirements.txt
 └── README.md
@@ -66,7 +66,7 @@ CHAVE_API=sua_chave_api_aqui
 Execute o arquivo principal:
 
 ```bash
-python main.py
+python app.py
 ```
 
 Saída esperada:
